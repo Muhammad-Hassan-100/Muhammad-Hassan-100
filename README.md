@@ -20,12 +20,12 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=muhammadhassan&label=Profile%20views&color=11eb11&style=for-the-badge" alt="Profile Views" align="right" />
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Hassan-100&label=Profile%20views&color=11eb11&style=for-the-badge" alt="Profile Views" align="right" />
 
 ## 📈 GitHub Performance  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhassan&show_icons=true&theme=highcontrast" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhassan&theme=highcontrast" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-100&show_icons=true&theme=highcontrast" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hassan-100&theme=highcontrast" width="48%" alt="GitHub Streak">
 </p>
 
 ---
