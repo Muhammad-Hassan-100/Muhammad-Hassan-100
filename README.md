@@ -1,27 +1,28 @@
-# 👨‍💻 Muhammad Hassan | Python Developer & Frontend Engineer  
+# 🚀 Muhammad Hassan | Python Developer & Frontend Engineer  
 
-🚀 **Turning Ideas into Scalable Solutions** | **Bridging AI & Web Technologies**  
-
----
-
-## 🔹 Expertise  
-- **Programming:** Python, JavaScript, TypeScript  
-- **Backend Development:** Flask, FastAPI, Node.js, Supabase  
-- **Frontend Development:** Next.js, React.js, TailwindCSS  
-- **AI/ML:** TensorFlow, OpenCV, Scikit-Learn, NLP  
-- **Database:** PostgreSQL, SQLite, Firebase  
-- **DevOps & Tools:** Git, Docker, Postman, CI/CD, Vercel  
+🔹 **AI-Driven Solutions** | **Scalable Web Apps** | **Optimized System Architectures**  
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhassan&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadhassan&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhassan&layout=compact&theme=dark)  
+## 💡 Core Expertise  
+🧠 **Programming:** Python, JavaScript, TypeScript  
+⚡ **Web Development:** Next.js, React.js, TailwindCSS  
+🔩 **Backend & APIs:** Flask, FastAPI, Supabase, Node.js  
+📊 **AI/ML & Data Science:** TensorFlow, OpenCV, Scikit-Learn, NLP  
+🛠 **Database & Cloud:** PostgreSQL, SQLite, Firebase, Supabase  
+🚀 **DevOps & Tools:** Git, Docker, CI/CD, Postman, Vercel  
 
 ---
 
-## 📌 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammadhassan)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/muhammadhassan)  
+## 📈 GitHub Performance  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhassan&show_icons=true&theme=highcontrast)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadhassan&theme=highcontrast)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhassan&layout=compact&theme=highcontrast)  
 
+---
+
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadhassan)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadhassan)  
+
+🔥 **Building Tech That Matters.** 🚀  
