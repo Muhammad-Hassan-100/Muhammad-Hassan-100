@@ -1,4 +1,4 @@
-# 🚀 Muhammad Hassan | Python Developer & Frontend Engineer  
+# 👑 Muhammad Hassan | Python Developer & Frontend Engineer  
 
 🔹 **AI-Driven Solutions** | **Scalable Web Apps** | **Optimized System Architectures**  
 
@@ -6,8 +6,7 @@
 
 ## 💡 About Me  
 👨‍💻 **Full Stack Developer** | **Machine Learning Enthusiast** | **Tech Innovator**  
-🚀 **Currently:** Python Developer @ **Ammrys Enterprises**  
-🛠 **Building:** `Zara Personal Assistant` (🔥 AI-Powered Voice Assistant)  
+🚀 **Currently:** Next.js Developer @ **Ammrys Enterprises**  
 🌍 **Exploring:** Next.js, Supabase, LLMs, & Multi-Modal Design  
 
 ---
