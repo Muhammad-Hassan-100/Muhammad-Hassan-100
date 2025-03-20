@@ -4,13 +4,20 @@
 
 ---
 
-## 💡 Core Expertise  
-🧠 **Programming:** Python, JavaScript, TypeScript  
-⚡ **Web Development:** Next.js, React.js, TailwindCSS  
-🔩 **Backend & APIs:** Flask, FastAPI, Supabase, Node.js  
-📊 **AI/ML & Data Science:** TensorFlow, OpenCV, Scikit-Learn, NLP  
-🛠 **Database & Cloud:** PostgreSQL, SQLite, Firebase, Supabase  
-🚀 **DevOps & Tools:** Git, Docker, CI/CD, Postman, Vercel  
+## 💡 About Me  
+👨‍💻 **Full Stack Developer** | **Machine Learning Enthusiast** | **Tech Innovator**  
+🚀 **Currently:** Python Developer @ **Ammrys Enterprises**  
+🛠 **Building:** `Zara Personal Assistant` (🔥 AI-Powered Voice Assistant)  
+🌍 **Exploring:** Next.js, Supabase, LLMs, & Multi-Modal Design  
+
+---
+
+## 🚀 Tech Stack & Tools  
+🧠 **Languages:** Python, JavaScript, TypeScript, SQL  
+🔩 **Backend:** Flask, FastAPI, Supabase, Node.js  
+🎨 **Frontend:** Next.js, React.js, TailwindCSS  
+⚡ **AI/ML:** TensorFlow, OpenCV, Scikit-Learn, Hugging Face  
+🛠 **Tools:** Git, Docker, Postman, Firebase, Vercel  
 
 ---
 
