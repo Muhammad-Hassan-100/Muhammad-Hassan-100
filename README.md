@@ -27,9 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadhassan&show_icons=true&theme=highcontrast" width="48%" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhassan&theme=highcontrast" width="48%" alt="GitHub Streak">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhassan&layout=compact&theme=highcontrast" width="40%" alt="Top Languages">
-</p>
 
 ---
 
