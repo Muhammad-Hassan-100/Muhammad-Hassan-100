@@ -23,7 +23,6 @@
 <img src="https://komarev.com/ghpvc/?username=OsamaHussain&label=Profile%20views&color=11eb11&style=for-the-badge"
 		alt="osama" align="right" />
 
---
 
 ## 📈 GitHub Performance  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhassan&show_icons=true&theme=highcontrast)  
