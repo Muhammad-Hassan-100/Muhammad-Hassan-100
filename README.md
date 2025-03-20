@@ -20,19 +20,27 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=OsamaHussain&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="osama" align="right" />
-
+<img src="https://komarev.com/ghpvc/?username=muhammadhassan&label=Profile%20views&color=11eb11&style=for-the-badge" alt="Profile Views" align="right" />
 
 ## 📈 GitHub Performance  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhassan&show_icons=true&theme=highcontrast)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadhassan&theme=highcontrast)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhassan&layout=compact&theme=highcontrast)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhassan&show_icons=true&theme=highcontrast" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhassan&theme=highcontrast" width="48%" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhassan&layout=compact&theme=highcontrast" width="40%" alt="Top Languages">
+</p>
 
 ---
 
 ## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadhassan)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadhassan)  
+<p align="center">
+  <a href="https://linkedin.com/in/muhammadhassan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/muhammadhassan">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 🔥 **Building Tech That Matters.** 🚀  
