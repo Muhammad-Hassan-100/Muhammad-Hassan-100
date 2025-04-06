@@ -1,18 +1,18 @@
-## <h1 align="center">Hi 👋, I'm John Howe</h1>
+## <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
 
 ## Stats
 
 <div align="center">
-<a href="https://trendshift.io/developers/8761" target="_blank"><img src="https://trendshift.io/api/badge/developers/8761" alt="timerring | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="https://trendshift.io/developers/8761" target="_blank"><img src="https://trendshift.io/api/badge/developers/8761" alt="Muhammad-Hassan-100 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 </div> 
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=timerring&count_private=true&show_icons=true&hide_border=true&theme=vue"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-100&count_private=true&show_icons=true&hide_border=true&theme=vue"/>
 </div> 
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/timerring" target="_blank">
+<a href="https://github.com/Muhammad-Hassan-100" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/" target="_blank">
@@ -31,5 +31,5 @@
 
 ## Visitor count
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/timerring/count.svg" />
+  <img src="https://profile-counter.glitch.me/Muhammad-Hassan-100/count.svg" />
 </p>
