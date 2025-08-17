@@ -1,35 +1,60 @@
-## <h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
+# <div align="center">👋 Hello, I'm Muhammad Hassan</div>
+### <div align="center">Full Stack Developer | Open Source Contributor | Tech Enthusiast</div>
 
-## Stats
+## 🚀 About Me
+
+I'm a passionate developer with expertise in building robust web applications. My focus is on creating efficient, scalable solutions while following best practices in software development. I enjoy contributing to open-source projects and continuously expanding my technical skills.
+
+## 🔧 Technologies & Tools
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## 📈 GitHub Stats
 
 <div align="center">
-<a href="https://trendshift.io/developers/8761" target="_blank"><img src="https://trendshift.io/api/badge/developers/8761" alt="Muhammad-Hassan-100 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-100&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan-100&layout=compact&langs_count=8&theme=vue-dark"/>
+</div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-100&count_private=true&show_icons=true&hide_border=true&theme=vue"/>
-</div> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hassan-100&theme=vue-dark" alt="GitHub Streak" />
+</div>
 
-## Connect with me  
+## 🌐 Connect With Me
+
 <div align="center">
-<a href="https://github.com/Muhammad-Hassan-100" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href=" ">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href=" ">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href=" ">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
+  </a>
+</div>
 
-## Visitor count
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Muhammad-Hassan-100/count.svg" />
-</p>
+## 👀 Visitors Count
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Muhammad-Hassan-100/count.svg" alt="Visitor Count" />
+</div>
