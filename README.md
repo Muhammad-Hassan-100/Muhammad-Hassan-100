@@ -4,7 +4,6 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working as a **Python Developer** at **Ammrys Enterprises**  
 - 🌱 Exploring **Machine Learning**, **Next.js**, and **AI Applications**  
 - 💡 Passionate about building **personal assistants**, **chatbots**, and **smart systems**  
 - 📫 Reach me at **muhammadhassan.dev@gmail.com**
@@ -60,6 +59,7 @@
 ---
 
 ## 👀 Visitor Count  
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Muhammad-Hassan-100/count.svg" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Hassan-100&label=Profile%20Views&color=0e75b6&style=flat" alt="Muhammad-Hassan-100" />
 </p>
