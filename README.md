@@ -6,7 +6,7 @@
 ## 🚀 About Me  
 - 🌱 Exploring **Machine Learning**, **Next.js**, and **AI Applications**  
 - 💡 Passionate about building **personal assistants**, **chatbots**, and **smart systems**  
-- 📫 Reach me at **muhammadhassan.dev@gmail.com**
+- 📫 Reach me at **muhammadhaasan6@gmail.com**
 
 ---
 
