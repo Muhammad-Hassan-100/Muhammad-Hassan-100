@@ -1,60 +1,65 @@
-# <div align="center">👋 Hello, I'm Muhammad Hassan</div>
-### <div align="center">Full Stack Developer | Open Source Contributor | Tech Enthusiast</div>
+<h1 align="center">Hi 👋, I'm Muhammad Hassan</h1>
+<h3 align="center">A Passionate Software Developer | Python | Frontend | ML Enthusiast</h3>
 
-## 🚀 About Me
+---
 
-I'm a passionate developer with expertise in building robust web applications. My focus is on creating efficient, scalable solutions while following best practices in software development. I enjoy contributing to open-source projects and continuously expanding my technical skills.
+## 🚀 About Me  
+- 🔭 Currently working as a **Python Developer** at **Ammrys Enterprises**  
+- 🌱 Exploring **Machine Learning**, **Next.js**, and **AI Applications**  
+- 💡 Passionate about building **personal assistants**, **chatbots**, and **smart systems**  
+- 📫 Reach me at **muhammadhassan.dev@gmail.com**
 
-## 🔧 Technologies & Tools
+---
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-100&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan-100&layout=compact&langs_count=8&theme=vue-dark"/>
-</div>
+<a href="https://trendshift.io/developers/8761" target="_blank">
+<img src="https://trendshift.io/api/badge/developers/8761" alt="Muhammad-Hassan-100 | Trendshift" width="250" height="55"/>
+</a>
+</div> 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hassan-100&theme=vue-dark" alt="GitHub Streak" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-100&count_private=true&show_icons=true&hide_border=true&theme=vue"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hassan-100&theme=vue" alt="streak stats"/>
+</div> 
 
-## 🌐 Connect With Me
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+---
+
+## 🌟 Featured Projects  
+
+🔹 [Zara Personal Assistant](https://github.com/Muhammad-Hassan-100) – AI-powered voice assistant with multi-language support  
+🔹 [University Chatbot](https://github.com/Muhammad-Hassan-100) – Department chatbot with admin & student interface  
+🔹 [Recipe Recommendation System](https://github.com/Muhammad-Hassan-100) – Suggests meals based on available ingredients  
+
+---
+
+## 🤝 Connect with Me  
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-  </a>
-</div>
+<a href="https://github.com/Muhammad-Hassan-100" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>  
+</div>  
 
-## 👀 Visitors Count
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Muhammad-Hassan-100/count.svg" alt="Visitor Count" />
-</div>
+## 👀 Visitor Count  
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Muhammad-Hassan-100/count.svg" />
+</p>
