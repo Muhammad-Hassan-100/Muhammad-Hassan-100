@@ -39,14 +39,6 @@
 
 ---
 
-## 🌟 Featured Projects  
-
-🔹 [Zara Personal Assistant](https://github.com/Muhammad-Hassan-100) – AI-powered voice assistant with multi-language support  
-🔹 [University Chatbot](https://github.com/Muhammad-Hassan-100) – Department chatbot with admin & student interface  
-🔹 [Recipe Recommendation System](https://github.com/Muhammad-Hassan-100) – Suggests meals based on available ingredients  
-
----
-
 ## 🤝 Connect with Me  
 
 <div align="center">
